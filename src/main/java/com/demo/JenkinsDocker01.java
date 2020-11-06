@@ -13,6 +13,6 @@ public class JenkinsDocker01 {
     }
     @GetMapping("/")
     public String getString(){
-        return "JenkinsDocker01";
+        return "JenkinsDocker02";
     }
 }
